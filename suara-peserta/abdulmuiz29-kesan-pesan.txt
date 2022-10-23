@@ -1,0 +1,5 @@
+Nama	: Abd. Mu'iz Samsul Arifin
+Prodi	: Sistem Informasi
+
+Kesan saya terhadap pemateri sangat bagus, pematerinya sabar dalam menjelaskan secara rinci mengenai GIT.
+Dengan mengikuti pelatihan GIT ini, saya mendapat pengetahuan baru mengenai Github dan bagaimana cara kolaborasi serta mengelolanya.
