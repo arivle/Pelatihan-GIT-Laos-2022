@@ -1,0 +1,3 @@
+kesan dan pesan:
+kesannya: saya mendapatkan ilmu baru yang sangat bermanfaat bagi saya dan juga mendapatkan pengalaman baru dari mengikuti git ini
+pesannya: materi dan penjelasan pelatihan git ini sangat mudah di mengerti dan sangat menyenangkan
