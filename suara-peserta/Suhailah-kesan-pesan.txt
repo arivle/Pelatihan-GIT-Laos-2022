@@ -1,0 +1,6 @@
+Nama  : Suhailah Nuriyah Fahma
+NIM   : 222410101053
+Prodi : Sistem Informasi
+
+Kesan : Sangat menambah ilmu mengenai git, karena sebelumnya saya hanya mempelajari mengenai github dan seisinya (tidak sampai ke git). Dan adanya pelatihan ini membuat saya tahu ternyata ada layanan git yang bisa membantu orang - orang untuk berkolaborasi mengatur isi dari repository bersama. 
+Pesan : Semoga kedepannya saya ingat materi yang telah disampaikan saat ini dan bisa mengimplementasikan nanti serta bisa berbagi ilmu ke teman - teman yang lain. Kemudian semoga tahun depan masih ada pelatihan git 2023 karena sangat bermanfaat. 
