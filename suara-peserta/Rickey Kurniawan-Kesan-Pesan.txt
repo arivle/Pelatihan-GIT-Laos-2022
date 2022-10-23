@@ -1,0 +1,3 @@
+pertama kali belajar GIT lumayan membingungkan karena belum mengerti apa itu GIT tapi setelah mengerti jadi agak penasaran ke depannya mungkin bakalan coba coba mendalami
+-Pesan 
+Mungkin lebih sering lagi mengadakan pelatihan yang lebih sering lagi agar bisa mengetahui hal hal lain
